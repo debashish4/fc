@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/friendshipMeter/static/css/main.814fffd0.chunk.css",
-    "main.js": "/friendshipMeter/static/js/main.d2f89fe6.chunk.js",
-    "main.js.map": "/friendshipMeter/static/js/main.d2f89fe6.chunk.js.map",
+    "main.js": "/friendshipMeter/static/js/main.88ee236c.chunk.js",
+    "main.js.map": "/friendshipMeter/static/js/main.88ee236c.chunk.js.map",
     "runtime-main.js": "/friendshipMeter/static/js/runtime-main.43e7be64.js",
     "runtime-main.js.map": "/friendshipMeter/static/js/runtime-main.43e7be64.js.map",
     "static/js/2.996d3cc6.chunk.js": "/friendshipMeter/static/js/2.996d3cc6.chunk.js",
     "static/js/2.996d3cc6.chunk.js.map": "/friendshipMeter/static/js/2.996d3cc6.chunk.js.map",
     "index.html": "/friendshipMeter/index.html",
-    "precache-manifest.b595fc51dda4e93c5e710532467f73d1.js": "/friendshipMeter/precache-manifest.b595fc51dda4e93c5e710532467f73d1.js",
+    "precache-manifest.14b0cf5b82aab4483d23fd1ca91a3ee2.js": "/friendshipMeter/precache-manifest.14b0cf5b82aab4483d23fd1ca91a3ee2.js",
     "service-worker.js": "/friendshipMeter/service-worker.js",
     "static/css/main.814fffd0.chunk.css.map": "/friendshipMeter/static/css/main.814fffd0.chunk.css.map",
     "static/js/2.996d3cc6.chunk.js.LICENSE.txt": "/friendshipMeter/static/js/2.996d3cc6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.43e7be64.js",
     "static/js/2.996d3cc6.chunk.js",
     "static/css/main.814fffd0.chunk.css",
-    "static/js/main.d2f89fe6.chunk.js"
+    "static/js/main.88ee236c.chunk.js"
   ]
 }

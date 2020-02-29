@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/friendshipMeter/precache-manifest.b595fc51dda4e93c5e710532467f73d1.js"
+  "/friendshipMeter/precache-manifest.14b0cf5b82aab4483d23fd1ca91a3ee2.js"
 );
 
 self.addEventListener('message', (event) => {
