@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c76da8074d8143cc171b323198cacef8",
+    "revision": "a8bf857e68b037337af0b76b75ff885a",
     "url": "/friendshipMeter/index.html"
   },
   {
-    "revision": "92e049874574daaa1fae",
+    "revision": "afe01b9fb6d36d0430d9",
     "url": "/friendshipMeter/static/css/main.814fffd0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendshipMeter/static/js/2.58b33cf0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92e049874574daaa1fae",
-    "url": "/friendshipMeter/static/js/main.86410edb.chunk.js"
+    "revision": "afe01b9fb6d36d0430d9",
+    "url": "/friendshipMeter/static/js/main.dcf2e828.chunk.js"
   },
   {
     "revision": "c15e780de997b0745044",
