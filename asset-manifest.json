@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/friendshipMeter/static/css/main.9a40d533.chunk.css",
-    "main.js": "/friendshipMeter/static/js/main.b8edcadb.chunk.js",
-    "main.js.map": "/friendshipMeter/static/js/main.b8edcadb.chunk.js.map",
-    "runtime-main.js": "/friendshipMeter/static/js/runtime-main.43e7be64.js",
-    "runtime-main.js.map": "/friendshipMeter/static/js/runtime-main.43e7be64.js.map",
-    "static/js/2.f34f484f.chunk.js": "/friendshipMeter/static/js/2.f34f484f.chunk.js",
-    "static/js/2.f34f484f.chunk.js.map": "/friendshipMeter/static/js/2.f34f484f.chunk.js.map",
-    "index.html": "/friendshipMeter/index.html",
-    "precache-manifest.826a1633e0f4c4ffd9d6c0d6720c4b03.js": "/friendshipMeter/precache-manifest.826a1633e0f4c4ffd9d6c0d6720c4b03.js",
-    "service-worker.js": "/friendshipMeter/service-worker.js",
-    "static/css/main.9a40d533.chunk.css.map": "/friendshipMeter/static/css/main.9a40d533.chunk.css.map",
-    "static/js/2.f34f484f.chunk.js.LICENSE.txt": "/friendshipMeter/static/js/2.f34f484f.chunk.js.LICENSE.txt",
-    "static/media/global.css": "/friendshipMeter/static/media/hotel-wallpaper.4b8c6162.png"
+    "main.css": "/fc/static/css/main.8214a18d.chunk.css",
+    "main.js": "/fc/static/js/main.59d88be0.chunk.js",
+    "main.js.map": "/fc/static/js/main.59d88be0.chunk.js.map",
+    "runtime-main.js": "/fc/static/js/runtime-main.ffc94c9d.js",
+    "runtime-main.js.map": "/fc/static/js/runtime-main.ffc94c9d.js.map",
+    "static/js/2.4e08aacc.chunk.js": "/fc/static/js/2.4e08aacc.chunk.js",
+    "static/js/2.4e08aacc.chunk.js.map": "/fc/static/js/2.4e08aacc.chunk.js.map",
+    "index.html": "/fc/index.html",
+    "precache-manifest.5425ea053226b573a21bd144b97af0d1.js": "/fc/precache-manifest.5425ea053226b573a21bd144b97af0d1.js",
+    "service-worker.js": "/fc/service-worker.js",
+    "static/css/main.8214a18d.chunk.css.map": "/fc/static/css/main.8214a18d.chunk.css.map",
+    "static/js/2.4e08aacc.chunk.js.LICENSE.txt": "/fc/static/js/2.4e08aacc.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/fc/static/media/hotel-wallpaper.4b8c6162.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43e7be64.js",
-    "static/js/2.f34f484f.chunk.js",
-    "static/css/main.9a40d533.chunk.css",
-    "static/js/main.b8edcadb.chunk.js"
+    "static/js/runtime-main.ffc94c9d.js",
+    "static/js/2.4e08aacc.chunk.js",
+    "static/css/main.8214a18d.chunk.css",
+    "static/js/main.59d88be0.chunk.js"
   ]
 }
